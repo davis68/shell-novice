@@ -32,7 +32,7 @@ a simple text format that specifies the type and position of each atom in the mo
 ~~~
 $ ls molecules
 ~~~
-{: .language-bash}
+{: .language-bash} 
 
 ~~~
 cubane.pdb    ethane.pdb    methane.pdb
